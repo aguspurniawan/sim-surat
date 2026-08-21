@@ -1,0 +1,6 @@
+{
+  "name": "Sistem Manajemen Surat Terintegrasi",
+  "description": "Sistem Manajemen Surat Masuk, Surat Keluar, Dokumen SPO/PERDIR/SK/Umum, Atomic Numbering Engine, Telegram & WhatsApp Bot Integrasi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
